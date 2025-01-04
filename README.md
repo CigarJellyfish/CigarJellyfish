@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello everybody my name is CigarJellyfish and welcome to my page
+🌱 I’m currently learning Data Analysis
+
+🤔 I’m looking for advice on how to break into the Machine Learning scene
+
+😄 Pronouns: She/They
+
+⚡ Fun fact: My user is my favorite animal
 
 <!--
 **CigarJellyfish/CigarJellyfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
